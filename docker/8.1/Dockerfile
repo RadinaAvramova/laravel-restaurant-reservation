@@ -1,6 +1,6 @@
 FROM ubuntu:21.10
 
-LABEL maintainer="Taylor Otwell"
+LABEL maintainer="Radina Avramova"
 
 ARG WWWGROUP
 ARG NODE_VERSION=16
